@@ -11,4 +11,5 @@ public interface HelpRepository extends JpaRepository<Help, Long> {
     Optional<Help>findByUidAndComment_CommentId(Long uid, Long commentId);
     List<Help>findAllByComment_CommentId(Long commentId);
     List<Help> deleteAllByComment_CommentId(Long commentId);
+
 }
