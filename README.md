@@ -10,7 +10,7 @@ Frontend github 주소 : https://github.com/hyejin4169/react_marketkurly_clone.g
 - #### 클론 코딩 취지에 맞춰 실제웹사이트 기능 및 자료 구현 ✨
 
 
-## 🏷 API Table 🏷
+## :computer: 
 ![image](https://user-images.githubusercontent.com/74662752/162946091-057b3253-5ad1-4a2c-87a4-6da55bc6f3cc.png)
 
 
@@ -20,7 +20,7 @@ Frontend github 주소 : https://github.com/hyejin4169/react_marketkurly_clone.g
 ## 🤷 노션 주소
 https://calico-millennium-b6c.notion.site/99-Week-07-4-81afed7b6c3d4380b9eaed8eacc2ed9e
 
-
+## 🏷 API Table 🏷
 ![image](https://user-images.githubusercontent.com/74662752/155528384-3e3c2ff9-1e4d-4c0d-9479-7a47b932abe8.png)
 ![image](https://user-images.githubusercontent.com/74662752/155528090-ea3cd3c4-e3f1-46a2-bbea-c25036820b9b.png)
 ![image](https://user-images.githubusercontent.com/74662752/155528142-059f4645-7e93-470b-9434-d5b3b69c43f4.png)
