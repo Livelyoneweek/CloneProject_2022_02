@@ -10,6 +10,10 @@ Frontend github 주소 : https://github.com/hyejin4169/react_marketkurly_clone.g
 - #### 클론 코딩 취지에 맞춰 실제웹사이트 기능 및 자료 구현 ✨
 
 
+## 🏷 API Table 🏷
+![image](https://user-images.githubusercontent.com/74662752/162946091-057b3253-5ad1-4a2c-87a4-6da55bc6f3cc.png)
+
+
  ## 🎥 시연 영상
 바로가기 -> https://youtu.be/CKtrtcF3CiU
 
